@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+}
+.box {
+  text-align: center;
+  box-shadow: 7px 7px 10px #dddddd;
+}
+.box i {
+  padding: 10px;
+  /* margin: 10px; */
+  border: 1px dashed #63b1fa;
+  border-radius: 100%;
+  color: #57adfd;
+}
+footer {
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+.price {
+  text-align: center;
+  box-shadow: 7px 7px 20px #eaeaea;
+}
+.price li {
+  list-style-type: none;
+  text-align: left;
+}
+.price h1 {
+  color: #319bff;
+}
+.for {
+  font-size: xx-large;
+}
+ul span {
+  color: #319bff;
+}
+.buy {
+  border-radius: 30px;
+  background-color: #319bff;
+  color: #fff;
+}
+.buy2 {
+  border-radius: 30px;
+  background-color: #319bff;
+  color: #fff;
+}
+.buy2:hover {
+  border: 1px solid #319bff;
+  background-color: white;
+  color: #319bff;
+}
+.buy:hover {
+  background-color: white;
+  color: #319bff;
+  border: 1px solid #319bff;
+}
+footer {
+  text-align: center;
+}

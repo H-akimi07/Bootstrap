@@ -1,0 +1,45 @@
+.navbar {
+  width: 100%;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #319bff;
+}
+.carousel img {
+  opacity: 0.5;
+}
+.carousel span {
+  color: #319bff;
+}
+.carousel .btn {
+  background-color: #319bff;
+  border-radius: 30px;
+  color: #fff;
+}
+.carousel .btn:hover {
+  border-radius: 30px;
+  border: 2px solid #319bff;
+  background-color: rgba(255, 255, 255, 0);
+  color: #319bff;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card-title {
+  color: #007bff;
+}
+
+.card-text {
+  color: #6c757d;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}

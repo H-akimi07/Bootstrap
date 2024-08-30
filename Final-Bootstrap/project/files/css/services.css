@@ -1,0 +1,183 @@
+.navbar {
+  width: 100%;
+}
+.icon-text-0 {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-1 {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-2 {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-3 {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-4 {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-5 {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-0:hover {
+  background-color: #319bff;
+  color: #fff;
+}
+.box-icon-0 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #319bff;
+  box-shadow: 3px 3px #5aafff;
+  border-radius: 3px;
+}
+.icon-text-0:hover .box-icon-0 {
+  background-color: #fff;
+  color: #319bff;
+}
+.icon-text-1:hover {
+  background-color: #d9ff31;
+  color: #fff;
+}
+.box-icon-1 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #d9ff31;
+  box-shadow: 3px 3px #ddf573;
+  border-radius: 3px;
+}
+.icon-text-1:hover .box-icon-1 {
+  background-color: #fff;
+  color: #d9ff31;
+}
+.icon-text-2:hover {
+  background-color: #be31ff;
+  color: #fff;
+}
+.box-icon-2 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #be31ff;
+  box-shadow: 3px 3px #d382f8;
+  border-radius: 3px;
+}
+.icon-text-2:hover .box-icon-2 {
+  background-color: #fff;
+  color: #be31ff;
+}
+.icon-text-2:hover {
+  background-color: #31fff5;
+  color: #fff;
+}
+.box-icon-2 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #31fff5;
+  box-shadow: 3px 3px #a0f8f4;
+  border-radius: 3px;
+}
+.icon-text-2:hover .box-icon-2 {
+  background-color: #fff;
+  color: #31fff5;
+}
+.icon-text-3:hover {
+  background-color: #ff3187;
+  color: #fff;
+}
+.box-icon-3 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #ff3187;
+  box-shadow: 3px 3px #fd9dc5;
+  border-radius: 3px;
+}
+.icon-text-3:hover .box-icon-3 {
+  background-color: #fff;
+  color: #ff3187;
+}
+.icon-text-4:hover {
+  background-color: #fa8314;
+  color: #fff;
+}
+.box-icon-4 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #fa8314;
+  box-shadow: 3px 3px #f8ad67;
+  border-radius: 3px;
+}
+.icon-text-4:hover .box-icon-4 {
+  background-color: #fff;
+  color: #fa8314;
+}
+.icon-text-5:hover {
+  background-color: #12f78c;
+  color: #fff;
+}
+.box-icon-5 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #12f78c;
+  box-shadow: 3px 3px #82f8c1;
+  border-radius: 3px;
+}
+.icon-text-5:hover .box-icon-5 {
+  background-color: #fff;
+  color: #12f78c;
+}
+
+.price {
+  text-align: center;
+  box-shadow: 7px 7px 20px #eaeaea;
+}
+.price li {
+  list-style-type: none;
+  text-align: left;
+}
+.price h1 {
+  color: #319bff;
+}
+.for {
+  font-size: xx-large;
+}
+ul span {
+  color: #319bff;
+}
+.buy {
+  border-radius: 30px;
+  background-color: #319bff;
+  color: #fff;
+}
+.buy2 {
+  border-radius: 30px;
+  background-color: #319bff;
+  color: #fff;
+}
+.buy:hover {
+  background-color: #319bff;
+  color: white;
+}
+footer {
+  text-align: center;
+}
+
+/* Cards */

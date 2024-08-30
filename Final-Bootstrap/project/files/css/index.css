@@ -1,0 +1,172 @@
+.navbar {
+  width: 100%;
+}
+.color {
+  background-color: #1b1c2d;
+}
+
+.icon-text {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+.icon-text-0:hover {
+  background-color: #319bff;
+  color: #fff;
+}
+.box-icon-0 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #4faaff;
+  box-shadow: 3px 3px #6db5f8;
+  border-radius: 3px;
+}
+.icon-text-0:hover .box-icon-0 {
+  background-color: #fff;
+  color: #319bff;
+}
+.icon-text-1:hover {
+  background-color: #d9ff31;
+  color: #fff;
+}
+.box-icon-1 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #d9ff31;
+  box-shadow: 3px 3px #e6f896;
+  border-radius: 3px;
+}
+.icon-text-1:hover .box-icon-1 {
+  background-color: #fff;
+  color: #d9ff31;
+}
+.icon-text-2:hover {
+  background-color: #be31ff;
+  color: #fff;
+}
+.box-icon-2 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #be31ff;
+  box-shadow: 3px 3px #df9efd;
+  border-radius: 3px;
+}
+.icon-text-2:hover .box-icon-2 {
+  background-color: #fff;
+  color: #be31ff;
+}
+.icon-text-3:hover {
+  background-color: #12f78c;
+  color: #fff;
+}
+.box-icon-3 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #12f78c;
+  box-shadow: 3px 3px #12f78c;
+  border-radius: 3px;
+}
+.icon-text-3:hover .box-icon-3 {
+  background-color: #fff;
+  color: #12f78c;
+}
+.icon-text-4:hover {
+  background-color: #ff3187;
+  color: #fff;
+}
+.box-icon-4 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #ff3187;
+  box-shadow: 3px 3px #ffa8cc;
+  border-radius: 3px;
+}
+.icon-text-4:hover .box-icon-4 {
+  background-color: #fff;
+  color: #ff3187;
+}
+.icon-text-5:hover {
+  background-color: #fa8314;
+  color: #fff;
+}
+.box-icon-5 {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #fa8314;
+  box-shadow: 3px 3px #f5c08e;
+  border-radius: 3px;
+}
+.icon-text-5:hover .box-icon-5 {
+  background-color: #fff;
+  color: #fa8314;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #319bff;
+}
+.carousel img {
+  opacity: 0.5;
+}
+.carousel span {
+  color: #319bff;
+}
+.carousel .btn {
+  background-color: #319bff;
+  border-radius: 30px;
+  color: #fff;
+}
+.carousel .btn:hover {
+  border-radius: 30px;
+  border: 2px solid #319bff;
+  background-color: rgba(255, 255, 255, 0);
+  color: #319bff;
+}
+
+.fa-circle-check {
+  color: #319bff;
+}
+.icon-text {
+  border: 1px solid #eae0da;
+  text-align: center;
+}
+
+.box-icon {
+  width: max-content;
+  margin: auto;
+  color: #fff;
+  padding: 10px;
+  background-color: #4faaff;
+  box-shadow: 3px 3px #6db5f8;
+  border-radius: 3px;
+}
+
+.cl {
+  text-align: center;
+}
+.clients-slider img {
+  width: 114px;
+  height: 50px;
+  margin: 40px;
+  margin-bottom: 60px;
+  opacity: 0.1;
+  align-self: center;
+}
+.clients-slider img:hover {
+  opacity: 1;
+}
+footer {
+  text-align: center;
+}
